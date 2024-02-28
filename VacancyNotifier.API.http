@@ -1,0 +1,6 @@
+@VacancyNotifier.API_HostAddress = http://localhost:5029
+
+GET {{VacancyNotifier.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
